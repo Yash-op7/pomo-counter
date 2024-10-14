@@ -2,7 +2,6 @@
 
 import React, { useEffect } from 'react'
 import Button from './(components)/Button';
-import Status from './(components)/Status';
 
 const Home = () => {
   const [counter, setCounter] = React.useState(0);
